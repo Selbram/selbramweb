@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Selbram Media Homepage</title>
+    <title>Selbram</title>
     <link>https://www.selbram.org/</link>
-    <description>Recent content on Selbram Media Homepage</description>
+    <description>Recent content on Selbram</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 20:03:58 +0530</lastBuildDate>
     
 	<atom:link href="https://www.selbram.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://www.selbram.org/posts/7-8-2020/</link>
+      <pubDate>Wed, 08 Jul 2020 20:39:55 -0400</pubDate>
+      
+      <guid>https://www.selbram.org/posts/7-8-2020/</guid>
+      <description>#Greetings!
+This is the firt post for the new website!
+ Later  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.selbram.org/contact/</link>
+      <pubDate>Thu, 23 Apr 2020 20:03:58 +0530</pubDate>
+      
+      <guid>https://www.selbram.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.selbram.org/about/</link>
+      <pubDate>Thu, 23 Apr 2020 19:57:09 +0530</pubDate>
+      
+      <guid>https://www.selbram.org/about/</guid>
+      <description>Selbram I am a long-time gamer and new to content creation.
+Goals  Post content!
+ </description>
+    </item>
     
   </channel>
 </rss>

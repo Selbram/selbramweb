@@ -3,11 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.selbram.org/categories/</loc>
+    <loc>https://www.selbram.org/posts/</loc>
+    <lastmod>2020-07-08T20:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.selbram.org/posts/7-8-2020/</loc>
+    <lastmod>2020-07-08T20:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.selbram.org/contact/</loc>
+    <lastmod>2020-04-23T20:03:58+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.selbram.org/</loc>
+    <lastmod>2020-04-23T20:03:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.selbram.org/about/</loc>
+    <lastmod>2020-04-23T19:57:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.selbram.org/categories/</loc>
   </url>
   
   <url>
